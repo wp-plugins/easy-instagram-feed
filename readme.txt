@@ -24,16 +24,7 @@ Here is the link to [Documentation](http://webriti.com/documentation-for-easy-in
 
 In case you face any problem, contact us via the [Forums](http://wordpress.org/support/plugin/easy-instagram-feed). 
 
-
-
-
-== Installation ==
-
-1. Download Easy Instagram Feed plugin.
-2. Upload the easy-instagram-feed folder to the /wp-content/plugins/ directory.
-3. Activate the plugin through the 'Plugins' menu in WordPress and Enjoy.
-
-== RoadMap ==
+= RoadMap =
 This is a early version and we have lots of features under development. Here is a tentative RoadMap
 
 * Support for customizing feed area i.e. feed width , height , background color etc .
@@ -41,6 +32,13 @@ This is a early version and we have lots of features under development. Here is 
 * Setting for selecting number of photos to display.
 * Pagination, feed column layout, setting resolution of images.
 * Custom css box to use the feeds you own etc etc.
+
+
+== Installation ==
+
+1. Download Easy Instagram Feed plugin.
+2. Upload the easy-instagram-feed folder to the /wp-content/plugins/ directory.
+3. Activate the plugin through the 'Plugins' menu in WordPress and Enjoy.
 
 Lots more to come, will update the change log accordingly.
 Give **Easy Instagram Feed** a try. We are sure you will like it. 
