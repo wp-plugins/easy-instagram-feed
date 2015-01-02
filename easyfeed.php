@@ -3,7 +3,7 @@
 /*
 Plugin Name: Easy Instagram Feed
 Description: This plugin allows to fetch the instagram feeds in your wordpress site. Just add the shortcode [easyinstagramfeed] in the normal wordpress page inorder to get the feeds.
-Version: 0.2
+Version: 0.3
 Author: priyanshu.mittal,a.ankit
 Author URI: http://webriti.com
 License: GPLv2 or later
