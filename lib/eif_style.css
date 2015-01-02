@@ -1,0 +1,16 @@
+#eif_access_token{width:500px; height:auto;}
+#eif_feed:after{ content:"";display:table;clear:both; }
+.clearfix{clear:both;}
+#eif_feed{ margin:0 auto; }
+#eif_images{ max-width:100%;height:auto;float:left; }
+.eif-col-4 .eif_item{ width:25%; }
+.eif_item{ 
+    padding:inherit !important; 
+    display:inline-block; 
+    margin:0px !important;
+    box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+}
+.eif_fixed_width{overflow-y:hidden; overflow-x:auto;}
+.eif_fixed_height{overflow-x:hidden; overflow-y:auto;}
