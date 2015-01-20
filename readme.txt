@@ -47,7 +47,7 @@ Lots more to come, will update the change log accordingly.
 Give **Easy Instagram Feed** a try. We are sure you will like it. 
 
 
-== FAQ ==
+== Frequently Asked Questions ==
 
 = 1. How to display instagram feed on post / page? =
 
