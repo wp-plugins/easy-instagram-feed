@@ -1,4 +1,4 @@
-=== Easy Instagram Feed ===
+=== Custom Instagram Feed ===
 Contributors: priyanshu.mittal,a.ankit
 Donate link: http://www.webriti.com/
 Tags: instagram, instagram page, instagram feed, instagram photos,custom instagram feed,mobile instagram,wordpress instagram
