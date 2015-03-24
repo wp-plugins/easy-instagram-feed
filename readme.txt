@@ -24,18 +24,19 @@ Easy Instagram Feed plugin allows to display instagram photos on your WordPress 
 * Photo Count - Option for *selecting the number of photos* to display ie if you select 20 photos to display first time, than, after 20 th one, you will be get a nice piece of load more button and when you click this button you will get the next set of photos.
 * Easily select the *order of photos* ie you can randomise the order of photos as well as set the order from new to old.
 * Easily *add padding* around each photo. 
-
-= Upcoming Feature =
 * Feature for *configuring load more button* as per the theme's color schemes so that the button looks more like the theme button itself.
 * *Follow us* on instagram button.
 * Most Important adding *shortcode attributes* so than you can *display multiple feeds* on the same page as well as on different pages by just adding
 [easyinstagramfeed id="xyz"]
 
-
 Here is the link to [Documentation](http://webriti.com/documentation-for-easy-instagram-feed-plugin-lite-version/)
 
 In case you face any problem, contact us via the [Forums](http://wordpress.org/support/plugin/easy-instagram-feed). 
 
+= Try Beta Version =
+We are looking for beta testers for the custom instagram feed plugin. Just fill the form and get a chance to try the beta version of this plugin.
+Beta version includes features like lightbox slideshow, video support, hashtag support etc etc. Fill the simple [form](http://spiceforms.com/app/public/forms/view?id=45) and the beta version will be mailed to you automatically.
+Also share your thoughts about the beta version at themes[at]webriti[dot]com
 
 == Installation ==
 
@@ -44,7 +45,7 @@ In case you face any problem, contact us via the [Forums](http://wordpress.org/s
 3. Activate the plugin through the 'Plugins' menu in WordPress and Enjoy.
 
 Lots more to come, will update the change log accordingly.
-Give **Easy Instagram Feed** a try. We are sure you will like it. 
+Give **Custom Instagram Feed** a try. We are sure you will like it. 
 
 
 == FAQ ==
