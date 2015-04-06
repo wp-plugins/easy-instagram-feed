@@ -33,7 +33,7 @@ Here is the link to [Documentation](http://webriti.com/documentation-for-easy-in
 
 In case you face any problem, contact us via the [Forums](http://wordpress.org/support/plugin/easy-instagram-feed). 
 
-= What You get in premium version =
+= What you get in premium version? =
 * *Video Media Support:* In the pro verison you can show video type items in the instagram feed. You can also watch the video directly on your website in the form of lightbox pop up.
 * *Hashtag Support:* Filter your feeds with the help of hashtags. You can also add multiple hashtags. Say if you set adidas and sports as the tags than you will recieves those media items in feed which have these two tags only.
 * *Lightbox Support:* By default the lightbox is active that if you click on any of the image / video , than you get the nice piece of lighobox fashion overlay. In this overlay window you can watch video, navigate to other images, share the items etc etc. You can also disable it if you dint want to use lightbox.
