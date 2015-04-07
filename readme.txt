@@ -41,6 +41,8 @@ In case you face any problem, contact us via the [Forums](http://wordpress.org/s
 * *Configure Caption:* Easy control over the media caption. You can hide, style, specify the limit of text to show by default.
 * *Configure Like and share icon:* You can hide the like and share icons by selecting the checkbox. You can also change the icon colors.
 * *Header Support:* Show you instagram profile picture along with the name. You can also change the text color in the header.
+* [Upgrade to the Custom Instagram Feed Pro version &raquo;](http://webriti.com/instagram-feed/)
+* [View Custom Instagram Feed Pro Live Demo &raquo;](http://webriti.com/easy-instagram-feed-demo/)
 
 == Installation ==
 
