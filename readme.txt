@@ -26,9 +26,9 @@ Custom Instagram Feed plugin allows to display instagram photos on your WordPres
 * Easily *add padding* around each photo. 
 * Feature for *configuring load more button* as per the theme's color schemes so that the button looks more like the theme button itself.
 * *Follow us* on instagram button.
-* Most Important adding *shortcode attributes* so than you can *display multiple feeds* on the same page as well as on different pages by just adding
+* Most Important adding *shortcode attributes* so that you can *display multiple feeds* on the same page as well as on different pages by just adding [easyinstagramfeed id="xyz"]
 * Support for *Instagram Embed*
-[easyinstagramfeed id="xyz"]
+
 
 Here is the link to [Documentation](http://webriti.com/documentation-for-easy-instagram-feed-plugin-lite-version/)
 
