@@ -91,7 +91,7 @@ px by 150px. Simialry for low_resolution size is 306 by 306 and for standard_res
 
 Go to general settings and get the user from there or use the this third party <a href="http://jelled.com/instagram/lookup-user-id" target="_blank">tool</a> 
 
-= 9. How to display particular feed on WordPress Page?
+= 9. How to display particular feed on WordPress Page? =
 You just need to paste the instagram image / video url and you will get the desired output. No need to add shortcode for this on the page. For example directly using something like this https://instagram.com/p/y9ietTkOrg/ will do.
 
 == Screenshots ==
