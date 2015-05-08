@@ -255,7 +255,7 @@ function eif_menu_output () {
                                                 <p>If you need updates and support after one year, then simply renew the license. If not, then you may keep using the plugin.</p>
                                                 <p>You may use the plugin on any number of websites you want</p>
                                                 <h3>How To Purchase</h3>
-                                                <p>If you are interested then you can buy the plugin <a href="http://www.webriti.com/amember/signup/custominstagramfeed" target="_blank">here</a>.
+                                                <p>If you are interested then you can buy the plugin <a href="http://webriti.com/instagram-feed/" target="_blank">here</a>.
                                                 I hope you will also enjoy working with us.
                                                 </p>
                                                 
